@@ -1,0 +1,30 @@
+.container {
+    text-align: center;
+    margin-top: 40px;
+}
+
+h1 {
+    color: green;
+    font-size: 38px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+table {
+    margin: auto;
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid #8bc34a;
+}
+
+th {
+    color: green;
+    padding: 6px 15px;
+}
+
+td {
+    color: #66bb6a;
+    padding: 6px 15px;
+}
